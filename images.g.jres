@@ -1,0 +1,42 @@
+{
+    "image3": {
+        "data": "hwQCAHgAAAD///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Wall"
+    },
+    "image4": {
+        "data": "hwSgAAIAAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Walll"
+    },
+    "image5": {
+        "data": "hwQFAAUAAAAREQEAEREBABERAQAREQEAEREBAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ball"
+    },
+    "image2": {
+        "data": "hwQUAAUAAAAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAIiICAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerone"
+    },
+    "image7": {
+        "data": "hwQFABQAAAB3d3d3d3d3d3d3AAB3d3d3d3d3d3d3AAB3d3d3d3d3d3d3AAB3d3d3d3d3d3d3AAB3d3d3d3d3d3d3AAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerfour"
+    },
+    "image1": {
+        "data": "hwQUAAUAAACIiAgAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAIiICACIiAgAiIgIAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Playertwo"
+    },
+    "image6": {
+        "data": "hwQFABQAAABVVVVVVVVVVVVVAABVVVVVVVVVVVVVAABVVVVVVVVVVVVVAABVVVVVVVVVVVVVAABVVVVVVVVVVVVVAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "playerthree"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
